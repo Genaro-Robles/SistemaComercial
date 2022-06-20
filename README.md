@@ -2,6 +2,8 @@
 Sistema de venta de productos basado en el patrón MVC con perfiles de proveedores (costos) y generación de resportes diarios, semanales y mensuales. 
 CRUD para cada apartado (Productos-Pedidos-Costos) y un menú principal
 
+Proyecto desarrollado durante el 3° Semestre
+
 # Requisitos:
 - SQLServer
 - Extension Crystal Reports para Visual Studio 2019 o superior
