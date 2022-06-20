@@ -6,12 +6,13 @@ CRUD para cada apartado (Productos-Pedidos-Costos-Empleados) y un menú principa
 - SQLServer
 - Extension Crystal Reports para Visual Studio 2019 o superior
 - Base de datos adjunta cargada (LPFinal.bak)
-# -------------------------------------------------------------
+ 
+-------------------------------------------------------------
 
 Recordar cambiar la conexion a la base de datos para evitar
 problemas.
 
-# -------------------------------------------------------------
+-------------------------------------------------------------
 
 Envio este mensaje en caso de que los reportes no muestren ningun dato.
 Al momento de ejecutar el programa presionar el boton marcado
@@ -19,7 +20,7 @@ en la imagen adjunta (1).
 Luego introducir el numero 0 como en la imagen adjunta (2).
 Finalmente darle aceptar y listo.
 
-# ----------------------------------------------------------
+----------------------------------------------------------
 
 Si desea actualizar el reporte desde el visual studio
 debera dar click derecho en Campos de base de datos en cada
