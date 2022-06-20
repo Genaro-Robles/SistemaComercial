@@ -30,10 +30,13 @@ una pantalla igual a la imagen adjunta (2) solo debe introducir
 el numero 0 y dar en aceptar y listo.
 
 Estilo de Formularios:
+
 ![image](https://user-images.githubusercontent.com/50786070/174654987-b6ace629-e252-44e0-a15a-e2453506c4ac.png)
 
 Vista principal de CRUD:
+
 ![image](https://user-images.githubusercontent.com/50786070/174655305-98e9fca9-88e5-42dc-9941-579cc57e4e10.png)
 
 Formulario para realizar un pedido:
+
 ![image](https://user-images.githubusercontent.com/50786070/174655353-073f1911-d1b0-4c95-95ce-00513b01aca8.png)
