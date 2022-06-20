@@ -29,12 +29,15 @@ una pantalla igual a la imagen adjunta (2) solo debe introducir
 el numero 0 y dar en aceptar y listo.
 
 Imagen adjunta 1:
+
 ![adjunta 1](https://user-images.githubusercontent.com/50786070/174655724-84238d77-21ef-4168-a43f-c671e503210c.PNG)
 
 Imagen adjunta 2:
+
 ![adjunta 2](https://user-images.githubusercontent.com/50786070/174655761-51aeb7c4-a9da-4e95-93f8-9df2ce8dfd38.PNG)
 
 Imagen adjunta 3:
+
 ![adjunta 3](https://user-images.githubusercontent.com/50786070/174655798-626985d0-42de-4b87-b0ff-0be61c45e178.PNG)
 
 # Vistas
