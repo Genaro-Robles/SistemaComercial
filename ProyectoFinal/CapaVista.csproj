@@ -7,8 +7,8 @@
     <ProjectGuid>{E1868236-7B2D-4F5A-B33A-218719025B38}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProyectoFinal</RootNamespace>
-    <AssemblyName>ProyectoFinal</AssemblyName>
+    <RootNamespace>CapaVista</RootNamespace>
+    <AssemblyName>CapaVista</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -183,6 +183,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Reportes\FrmReporte_Diario.resx">
       <DependentUpon>FrmReporte_Diario.cs</DependentUpon>
