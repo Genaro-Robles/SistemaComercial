@@ -1,6 +1,6 @@
 # SistemaComercial
 Sistema de venta de productos basado en el patrón MVC con perfiles de proveedores (costos) y generación de resportes diarios, semanales y mensuales. 
-CRUD para cada apartado (Productos-Pedidos-Costos-Empleados) y un menú principal
+CRUD para cada apartado (Productos-Pedidos-Costos) y un menú principal
 
 # Requisitos:
 - SQLServer
