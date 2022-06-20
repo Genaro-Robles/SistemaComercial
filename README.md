@@ -7,7 +7,7 @@ Proyecto desarrollado durante el 3° Semestre
 # Requisitos:
 - SQLServer
 - Extension Crystal Reports para Visual Studio 2019 o superior
-- Base de datos adjunta cargada (LPFinal.bak)
+- Base de datos adjunta cargada (trabajoFinal.sql)
  
 # Recomendaciones
 
